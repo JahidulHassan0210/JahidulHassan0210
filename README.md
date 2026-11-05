@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-A Computer Science and Engineering graduate from BRAC University passionate about building functional and visually engaging digital experiences.
+I come from shonir akhra, Kadamtoli, Dhaka. I have done my O levels and A levels from Academia, lalmatia. After which I have pursued my graduation in Computer Science & Engineering from BRAC University. Following that I did my diploma in Full Stack Web Development and Graphics Designing, from Creative IT Institute, Dhanmondi. After that, I'm looking for an opportunity to build functional and visually engaging digital experiences.
 
 🔭 &nbsp;I'm currently working on **WordPress websites and personal web projects**  
 🌱 &nbsp;I'm currently learning **web development skills through a Full Stack AI Development course from Creative IT Institute**  
